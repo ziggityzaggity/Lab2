@@ -27,7 +27,7 @@ public class DataTypesTest {
         assertEquals("sum form 1 to 1 million should be " + x, x, DataTypes.sum(lst));
     }
 
-    public static void main() {
+    public static void main(String[] args) {
         DataTypesTest test = new DataTypesTest();
         test.largeSumTest();
   ;  }
