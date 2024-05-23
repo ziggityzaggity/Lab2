@@ -24,3 +24,6 @@
 8. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 9. Pour the batter into a greased and floured 9x13-inch baking pan.
 10. swag
+
+## Additional Directions by Ali:
+11. eat cake like your life depends on it
